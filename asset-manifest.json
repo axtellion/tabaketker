@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tabaketker/static/css/main.28f5bfe0.css",
-    "main.js": "/tabaketker/static/js/main.3562cba7.js",
+    "main.js": "/tabaketker/static/js/main.7ea91750.js",
     "index.html": "/tabaketker/index.html",
     "main.28f5bfe0.css.map": "/tabaketker/static/css/main.28f5bfe0.css.map",
-    "main.3562cba7.js.map": "/tabaketker/static/js/main.3562cba7.js.map"
+    "main.7ea91750.js.map": "/tabaketker/static/js/main.7ea91750.js.map"
   },
   "entrypoints": [
     "static/css/main.28f5bfe0.css",
-    "static/js/main.3562cba7.js"
+    "static/js/main.7ea91750.js"
   ]
 }
