@@ -1,3 +1,5 @@
+import { Hero } from 'components/Hero/Hero';
+
 export const Home = () => {
-  return <h1>Welcom to Tabaker</h1>;
+  return <Hero />;
 };
