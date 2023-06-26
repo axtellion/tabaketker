@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const Title = styled.h2`
-  width: 100%;
   height: 39px;
   color: #000000;
   font-size: 24px;
