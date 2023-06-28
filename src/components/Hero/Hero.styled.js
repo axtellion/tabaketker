@@ -10,6 +10,8 @@ export const Container = styled.section`
 
   background-color: #c1dcdc;
   border-radius: 24px;
+
+  margin-bottom: 96px;
 `;
 
 export const Box = styled.div`
