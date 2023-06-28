@@ -9,17 +9,41 @@ export const Box = styled.div`
   height: 265px;
 `;
 
-export const Title = styled.h2``;
+export const Title = styled.h2`
+  font-size: 32px;
 
-export const Text = styled.p``;
+  margin-bottom: 12px;
+`;
 
-export const Btn = styled.button``;
+export const Text = styled.p`
+  font-size: 18px;
+
+  margin-bottom: 24px;
+`;
+
+export const Btn = styled.button`
+  width: 168px;
+  height: 51px;
+
+  font-size: 18px;
+  font-weight: 600;
+
+  border: none;
+  background-color: #c1dcdc;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+`;
 
 export const BoxCart = styled.div``;
 
 export const Img = styled.img`
   width: 100%;
   height: 360px;
+
+  margin-bottom: 12px;
 `;
 
 export const Item = styled.ul`
@@ -32,6 +56,12 @@ export const List = styled.li`
   height: 435px;
 `;
 
-export const CartTitle = styled.h3``;
+export const CartTitle = styled.h3`
+  margin-bottom: 7px;
 
-export const CartText = styled.p``;
+  font-size: 18px;
+`;
+
+export const CartText = styled.p`
+  font-size: 18px;
+`;
