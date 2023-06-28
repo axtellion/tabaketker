@@ -1,7 +1,9 @@
 import styled from 'styled-components';
 
-export const Container = styled.div`
+export const Container = styled.section`
   display: flex;
+
+  padding-bottom: 113px;
 `;
 
 export const Box = styled.div`

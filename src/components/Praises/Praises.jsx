@@ -30,17 +30,17 @@ export const Praises = () => {
       <BoxCart>
         <Item>
           <List>
-            <Img src={praises_image_1} alt="flawer" />
+            <Img src={praises_image_1} alt="flowers" />
             <CartTitle>Natural Plants</CartTitle>
             <CartText>$ 1,400.00</CartText>
           </List>
           <List>
-            <Img src={praises_image_2} alt="flawer" />
+            <Img src={praises_image_2} alt="flowers" />
             <CartTitle>Artificial Plants</CartTitle>
             <CartText>$ 900.00</CartText>
           </List>
           <List>
-            <Img src={praises_image_3} alt="flawer" />
+            <Img src={praises_image_3} alt="flowers" />
             <CartTitle>Artificial Plants</CartTitle>
             <CartText>$ 3,500.00</CartText>
           </List>

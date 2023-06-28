@@ -1,5 +1,5 @@
 import { Logo } from 'components/Logo/Logo';
-import { Link, NavItem, Box } from './Header.style';
+import { Link, NavItem, Box } from './Header.styled';
 import { BsCart } from 'react-icons/bs';
 
 export const Header = () => {
