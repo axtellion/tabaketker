@@ -10,7 +10,7 @@ import { Header } from './Header/Header';
 
 export const App = () => {
   return (
-    <Box as="main" width="1248px" mx="auto" pt="48px" pb="48px">
+    <Box as="main" mx="auto" pt="48px" pb="48px">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />

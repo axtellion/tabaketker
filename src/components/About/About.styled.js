@@ -2,7 +2,9 @@ import styled from 'styled-components';
 
 export const Container = styled.section`
   text-align: center;
+  width: 1248px;
 
+  margin: 0 auto;
   padding-bottom: 165px;
 `;
 

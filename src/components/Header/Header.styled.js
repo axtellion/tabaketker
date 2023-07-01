@@ -6,6 +6,7 @@ export const Box = styled.div`
   display: flex;
   justify-content: space-between;
 
+  margin: 0 auto;
   margin-bottom: 48px;
   padding: 10px 20px;
 `;

@@ -1,8 +1,10 @@
 import styled from 'styled-components';
 
 export const Container = styled.section`
+  width: 1248px;
   display: flex;
 
+  margin: 0 auto;
   padding-bottom: 113px;
 `;
 
