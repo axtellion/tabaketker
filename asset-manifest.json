@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/tabaketker/static/css/main.28f5bfe0.css",
-    "main.js": "/tabaketker/static/js/main.9c8f06ad.js",
+    "main.js": "/tabaketker/static/js/main.83cb703d.js",
+    "static/media/categorie_3.jpg": "/tabaketker/static/media/categorie_3.1290ab434694ea4c5cb1.jpg",
     "static/media/flawer.png": "/tabaketker/static/media/flawer.517dc832de724b86c3e9.png",
+    "static/media/categorie_2.jpg": "/tabaketker/static/media/categorie_2.6a7b054655935204e028.jpg",
+    "static/media/categorie_1.jpg": "/tabaketker/static/media/categorie_1.e586c048d12ef20c738f.jpg",
     "static/media/praises_3.jpg": "/tabaketker/static/media/praises_3.456fb48448a6cdacbfe0.jpg",
     "static/media/praises_1.jpg": "/tabaketker/static/media/praises_1.1fdda034a0b846a419a0.jpg",
     "static/media/praises_2.jpg": "/tabaketker/static/media/praises_2.fa19df274656d55b88e5.jpg",
     "index.html": "/tabaketker/index.html",
     "main.28f5bfe0.css.map": "/tabaketker/static/css/main.28f5bfe0.css.map",
-    "main.9c8f06ad.js.map": "/tabaketker/static/js/main.9c8f06ad.js.map"
+    "main.83cb703d.js.map": "/tabaketker/static/js/main.83cb703d.js.map"
   },
   "entrypoints": [
     "static/css/main.28f5bfe0.css",
-    "static/js/main.9c8f06ad.js"
+    "static/js/main.83cb703d.js"
   ]
 }
