@@ -1,5 +1,9 @@
 import styled from 'styled-components';
 
+export const FooterBG = styled.div`
+background-color: #C1DCDC;
+`
+
 export const Container = styled.div``
 
 export const Box = styled.div``
