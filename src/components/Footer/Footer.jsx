@@ -1,5 +1,5 @@
 import { BiLogoFacebook, BiLogoInstagramAlt, BiLogoTwitter } from 'react-icons/bi';
-import { Container, Box, ListBox, Text, Title, SocialList, SocialItem, AfterText, FooterBG } from "./Foter.styled"
+import { Container, Box, ListBox, Text, Title, SocialList, SocialItem, AfterText, FooterBG, List, Item, ListTitle, ListText } from "./Foter.styled"
 
 
 export const Footer = () => {
@@ -20,7 +20,28 @@ export const Footer = () => {
         </SocialList>
         
     </Box>
-    <ListBox></ListBox>
-    <AfterText>2023 all Right Reserved Term of use Tabakerka</AfterText>
-</Container></FooterBG>
+    <ListBox>
+        <List>
+            <Item><ListTitle>Information</ListTitle></Item>
+            <Item><ListText>About</ListText></Item>
+            <Item><ListText>Product</ListText></Item>
+            <Item><ListText>Blog</ListText></Item>
+        </List>
+        <List>
+            <Item><ListTitle>Company</ListTitle></Item>
+            <Item><ListText>Community</ListText></Item>
+            <Item><ListText>Career</ListText></Item>
+            <Item><ListText>Our story</ListText></Item>
+        </List>
+        <List>
+            <Item><ListTitle>Contact</ListTitle></Item>
+            <Item><ListText>Getting Started</ListText></Item>
+            <Item><ListText>Pricing</ListText></Item>
+            <Item><ListText>Resources</ListText></Item>
+        </List>
+    </ListBox>
+   
+</Container>
+    <AfterText>2023 all Right Reserved Term of use TABAKERKA</AfterText>
+</FooterBG>
 }
