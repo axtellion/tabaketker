@@ -6,20 +6,21 @@ export const Footer = () => {
     return <FooterBG><Container>
     <Box>
         <Title>Tabakerka</Title>
-        <Text>We help you find your dream plant</Text>
+        <Text>We help you find <br /> your dream plant</Text>
         <SocialList>
             <SocialItem>
-                <BiLogoFacebook />
+                <BiLogoFacebook size={20} color='grey'/>
             </SocialItem>
             <SocialItem>
-                <BiLogoInstagramAlt/>
+                <BiLogoInstagramAlt size={20} color='grey'/>
             </SocialItem>
             <SocialItem>
-                <BiLogoTwitter/>
+                <BiLogoTwitter size={20} color='grey'/>
             </SocialItem>
         </SocialList>
-        <AfterText>2023 all Right Reserved Term of use Tabakerka</AfterText>
+        
     </Box>
     <ListBox></ListBox>
+    <AfterText>2023 all Right Reserved Term of use Tabakerka</AfterText>
 </Container></FooterBG>
 }
